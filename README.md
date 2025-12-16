@@ -68,7 +68,7 @@ Jira
 → AI Recommendation Engine  
 → Analytics Dashboard  
 
-(Architecture visuals available in `/architecture`)
+(Architecture visuals available in architecture/Architecture.png
 
 ---
 
