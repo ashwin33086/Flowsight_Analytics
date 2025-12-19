@@ -17,6 +17,15 @@ FlowSight transforms sprint data into actionable intelligence by:
 - Recommending corrective actions
 
 ---
+## MVP Focus
+
+FlowSight was intentionally built as an MVP to validate one core question:
+
+Can sprint delivery risk be detected early using signals already available in Jira?
+
+The project focuses on early risk detection and decision support, 
+not on building a full production-grade analytics platform.
+
 
 ## 📦 MVP Scope
 **Data Source:** Jira only  
