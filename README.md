@@ -31,6 +31,22 @@ not on building a full production-grade analytics platform.
 **Data Source:** Jira only  
 **Target Users:** Product Managers, Engineering Managers  
 
+## Scope Definition
+
+### Included in MVP
+• Jira-only data ingestion
+• Sprint-level risk indicators
+• Velocity, blocker, workload signals
+• Rule-based risk scoring
+• Decision-focused dashboard
+
+### Explicitly Out of Scope (for MVP)
+• GitHub and Slack integrations
+• Real-time streaming
+• Automated actions
+• Advanced ML models
+
+
 ### Included
 - Sprint health analytics
 - Feature engineering
